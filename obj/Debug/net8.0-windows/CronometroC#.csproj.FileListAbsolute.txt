@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\bin\Debug\net8.0-windows\CronometroC#.exe
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\bin\Debug\net8.0-windows\CronometroC#.deps.json
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\bin\Debug\net8.0-windows\CronometroC#.runtimeconfig.json
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\bin\Debug\net8.0-windows\CronometroC#.dll
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\bin\Debug\net8.0-windows\CronometroC#.pdb
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC_.Form1.resources
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.dll
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\refint\CronometroC#.dll
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.pdb
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC#.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\ref\CronometroC#.dll
+C:\Users\Administrador\source\repos\CronometroC#\CronometroC#\obj\Debug\net8.0-windows\CronometroC_.Properties.Resources.resources
